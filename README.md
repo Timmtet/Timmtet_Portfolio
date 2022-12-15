@@ -2,14 +2,14 @@
 Hi, I am Timileyin Akintilo. Welcome to my portfolio.
 
 
-# Project 1: TMDb_movies_database Project
+# Project 1: Writing a Data Science Blog Post - (TMDb_movies_database Project)
 1. Installations
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.
 
 2. Project Motivation
 
-The aim of the project is to investigate factors that positive and negatively affects revenue generation from movie production. Hence, the following questions were considered:
+The aim of the project is to investigate and write a blog post on the factors that positive and negatively affects revenue generation from movie production. Hence, the following questions were considered:
 
 a. What is the association between movies with tagline and revenue/adjusted revenue(renvenue_adj)
 
