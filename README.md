@@ -2,7 +2,7 @@
 Hi, I am Timileyin Akintilo. Welcome to my portfolio.
 
 
-# Project 1: Writing a Data Science Blog Post - (TMDb_movies_database Project)
+# [Project 1: Writing a Data Science Blog Post - (TMDb_movies_database Project)](https://github.com/Timmtet/Write-a-data-science-blog-post)
 1. Installations
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.
@@ -24,8 +24,8 @@ There is also a notebook available here to showcsae all my work related to my th
 
 4. Results
 
-The insights drawn from this project can be found in the medium post link below:
-https://medium.com/@akintilotimileyin/how-to-maximize-revenue-in-your-next-movie-production-insights-from-the-movie-database-tmdb-c3e0c932dda1
+The insights drawn from this project can be found in the medium post below:
+[How to maximize revenue in your next movie production: Insights from The Movie Database (TMDb)](https://medium.com/@akintilotimileyin/how-to-maximize-revenue-in-your-next-movie-production-insights-from-the-movie-database-tmdb-c3e0c932dda1)
 
 5. Licensing, Authors, and Acknowledgements
 
