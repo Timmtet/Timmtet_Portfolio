@@ -32,6 +32,10 @@ The insights drawn from this project can be found in the medium post below:
 Must give credit to my collegues for thier inputs in this project, and to kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available below:
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
+![](https://github.com/Timmtet/Timmtet_Portfolio/blob/main/Images/1_g8KTuLMF6MRm_wGGY7yKSQ.jpg)
+
+![](https://github.com/Timmtet/Timmtet_Portfolio/blob/main/Images/1_1e5ePbZqmvz-sMSn7Q_nwA.jpg)
+
 
 # [Project 2: Capstone Project](https://github.com/Timmtet/Capstone-Project1)
 1. Project Overview
@@ -51,16 +55,7 @@ c. Kaggle Competition - This used the chosen model to make predictions on th
 
 There were four data files provided by Arvato for this project. The last file was created by the user. As part of the terms and conditions of Arvato, the files cannot be shared in this repository. However, they can be described below.
 
-azdias.csv - Demographics data for the general population of Germany - 891,211 persons (rows) x 366 features (columns)
-
-customers.csv - Demographics data for customers of a mail-order company - 191,652 persons (rows) x 369 features (columns)
-
-mailout_train.csv - Demographics data for individuals who were targets of a marketing campaign (train) - 42,982 persons (rows) x 367 (columns)
-
-mailout_test.csv - Demographics data for individuals who were targets of a marketing campaign (test) - 42,833 persons (rows) x 366 (columns)
-
-feat_info.csv - Contains a summary of properties for each demographics data column created by the user - 366 features (rows) x 4 (columns) 
-
+azdias.csv - Demographics data for the general population of Germany, customers.csv - Demographics data for customers of a mail-order company, mailout_train.csv - Demographics data for individuals who were targets of a marketing campaign (train), mailout_test.csv - Demographics data for individuals who were targets of a marketing campaign (test), feat_info.csv - Contains a summary of properties for each demographics data column created by the user 
 
 3. Technical Overview
 
@@ -78,3 +73,6 @@ The results have been clearly documented in the Jupyter Notebook. Please refer A
 
 The blog post for this project is found in the meduim post below:
 [Capstone Project: Customer Segmentation.](https://medium.com/@akintilotimileyin/capstone-project-customer-segmentation-5f2844515909)
+
+![](https://github.com/Timmtet/Timmtet_Portfolio/blob/main/Images/General.jpg)
+![](https://github.com/Timmtet/Timmtet_Portfolio/blob/main/Images/FI.jpg)
