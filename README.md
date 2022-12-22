@@ -32,9 +32,9 @@ The insights drawn from this project can be found in the medium post below:
 Must give credit to my collegues for thier inputs in this project, and to kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available below:
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
-![](https://github.com/Timmtet/Timmtet_Portfolio/blob/main/Images/1_g8KTuLMF6MRm_wGGY7yKSQ.jpg)
+![](/Images/1_g8KTuLMF6MRm_wGGY7yKSQ.jpg)
 
-![](https://github.com/Timmtet/Timmtet_Portfolio/blob/main/Images/1_1e5ePbZqmvz-sMSn7Q_nwA.jpg)
+![](/Images/1_1e5ePbZqmvz-sMSn7Q_nwA.jpg)
 
 
 # [Project 2: Capstone Project](https://github.com/Timmtet/Capstone-Project1)
@@ -74,8 +74,8 @@ The results have been clearly documented in the Jupyter Notebook. Please refer A
 The blog post for this project is found in the meduim post below:
 [Capstone Project: Customer Segmentation.](https://medium.com/@akintilotimileyin/capstone-project-customer-segmentation-5f2844515909)
 
-![](https://github.com/Timmtet/Timmtet_Portfolio/blob/main/Images/General.jpg)
-![](https://github.com/Timmtet/Timmtet_Portfolio/blob/main/Images/FI.jpg)
+![](Images/General.jpg)
+![](/Images/FI.jpg)
 
 
 # [Project 3: Heart disease Prediction Project](https://github.com/Timmtet/Kagggle-Heart-Prediction-Project)
@@ -86,7 +86,7 @@ People with cardiovascular disease or who are at high cardiovascular risk (due t
 
 This project involves the building of a predictive model that will help in clasification of patients into those at high cardiovascular risk(with cardiovascular disease) and those at low cardiovascular risk(without cardiovascular disease).
 
-![](https://github.com/Timmtet/Timmtet_Portfolio/blob/main/Images/download%20(1).png)
+![](Images/download%20(1).png)
 
 
 # [Project 4: Financial Inclusion in Africa](https://github.com/Timmtet/Financial-Inclusion-in-Africa-/blob/main/Zindi%20Financial%20inclusion%20.ipynb)
@@ -97,7 +97,7 @@ Traditionally, access to bank accounts has been regarded as an indicator of fina
 In this project a machine learning model was created to predict which individuals are most likely to have or use a bank account. The models and solutions developed provided an indication of the state of financial inclusion in Kenya, Rwanda, Tanzania and Uganda, while providing insights into some of the key factors driving individuals’ financial security.
 
 
-![](https://github.com/Timmtet/Timmtet_Portfolio/blob/main/Images/download2.png)
+![](/Images/download2.png)
 
 ![](/Images/confusion%20matr.png)
 
