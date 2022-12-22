@@ -100,3 +100,5 @@ In this project a machine learning model was created to predict which individual
 ![](https://github.com/Timmtet/Timmtet_Portfolio/blob/main/Images/download2.png)
 
 ![](https://github.com/Timmtet/Timmtet_Portfolio/blob/main/Images/confusion%20matr.png)
+
+# [Link to other projects](https://github.com/Timmtet?tab=repositories)
