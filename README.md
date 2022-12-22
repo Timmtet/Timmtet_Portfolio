@@ -89,3 +89,14 @@ This project involves the building of a predictive model that will help in clasi
 ![](https://github.com/Timmtet/Timmtet_Portfolio/blob/main/Images/download%20(1).png)
 
 
+# [Project 4: Financial Inclusion in Africa](https://github.com/Timmtet/Financial-Inclusion-in-Africa-/blob/main/Zindi%20Financial%20inclusion%20.ipynb)
+Financial inclusion remains one of the main obstacles to economic and human development in Africa. For example, across Kenya, Rwanda, Tanzania, and Uganda only 9.1 million adults (or 14% of adults) have access to or use a commercial bank account.
+
+Traditionally, access to bank accounts has been regarded as an indicator of financial inclusion. Despite the proliferation of mobile money in Africa, and the growth of innovative fintech solutions, banks still play a pivotal role in facilitating access to financial services. Access to bank accounts enable households to save and make payments while also helping businesses build up their credit-worthiness and improve their access to loans, insurance, and related services. Therefore, access to bank accounts is an essential contributor to long-term economic growth.
+
+In this project a machine learning model was created to predict which individuals are most likely to have or use a bank account. The models and solutions developed provided an indication of the state of financial inclusion in Kenya, Rwanda, Tanzania and Uganda, while providing insights into some of the key factors driving individuals’ financial security.
+
+
+![](https://github.com/Timmtet/Timmtet_Portfolio/blob/main/Images/download2.png)
+
+![](https://github.com/Timmtet/Timmtet_Portfolio/blob/main/Images/confusion%20matr.png)
