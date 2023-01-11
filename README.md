@@ -65,7 +65,7 @@ Data Exploration, Data Wrangling, Feature Engineering, Dimensionality Reduction,
 
 4. Requirements
 
-All of the requirements are given in requirements.txt. To install Run: pip install -r requirements.txt
+All of the requirements are given in requirements.txt. To install Run: pip install -r requirements.txt.
 
 5. Results
 
