@@ -40,7 +40,7 @@ https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 # [Project 2: Capstone Project](https://github.com/Timmtet/Capstone-Project1)
 1. Project Overview
 
-In this project, we are provided with demographic data of customers of a mail-order company in Germany and demographic data of general population of Germany. Using this data, we are required to identify new customers for the company
+In this project, we are provided with demographic data of customers of a mail-order company in Germany and demographic data of general population of Germany. Using this data, we are required to identify new customers for the company.
 
 This project is divided into the steps, namely:
 
