@@ -9,7 +9,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 2. Project Motivation
 
-The aim of the project is to investigate and write a blog post on the factors that positive and negatively affects revenue generation from movie production. Hence, the following questions were considered:
+The aim of the project is to investigate and write a blog post on the factors that positively and negatively affects revenue generation from movie production. Hence, the following questions were considered:
 
 a. What is the association between movies with tagline and revenue/adjusted revenue(renvenue_adj)?
 
