@@ -11,7 +11,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 The aim of the project is to investigate and write a blog post on the factors that positive and negatively affects revenue generation from movie production. Hence, the following questions were considered:
 
-a. What is the association between movies with tagline and revenue/adjusted revenue(renvenue_adj)
+a. What is the association between movies with tagline and revenue/adjusted revenue(renvenue_adj)?
 
 b. What decade are the most popular movies released; how much revenue was recorded that year?
 
