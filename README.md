@@ -61,7 +61,7 @@ azdias.csv - Demographics data for the general population of Germany, customers.
 
 The project has been divided into various steps which include:
 
-Data Exploration, Data Wrangling, Feature Engineering, Dimensionality Reduction, Clustering, Supervised Learning, Model Evaluation, Predictions on Test data, Kaggle Submission
+Data Exploration, Data Wrangling, Feature Engineering, Dimensionality Reduction, Clustering, Supervised Learning, Model Evaluation, Predictions on Test data, and Kaggle Submission.
 
 4. Requirements
 
