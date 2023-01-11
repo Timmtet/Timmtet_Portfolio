@@ -55,7 +55,7 @@ c. Kaggle Competition - This used the chosen model to make predictions on th
 
 There were four data files provided by Arvato for this project. The last file was created by the user. As part of the terms and conditions of Arvato, the files cannot be shared in this repository. However, they can be described below.
 
-azdias.csv - Demographics data for the general population of Germany, customers.csv - Demographics data for customers of a mail-order company, mailout_train.csv - Demographics data for individuals who were targets of a marketing campaign (train), mailout_test.csv - Demographics data for individuals who were targets of a marketing campaign (test), feat_info.csv - Contains a summary of properties for each demographics data column created by the user 
+azdias.csv - Demographics data for the general population of Germany, customers.csv - Demographics data for customers of a mail-order company, mailout_train.csv - Demographics data for individuals who were targets of a marketing campaign (train), mailout_test.csv - Demographics data for individuals who were targets of a marketing campaign (test), feat_info.csv - Contains a summary of properties for each demographics data column created by the user.
 
 3. Technical Overview
 
