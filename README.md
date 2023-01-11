@@ -19,7 +19,7 @@ c. Does higher vote count have any influence on revenue generated?
 
 3. File Description
 
-For this project, I chose a dataset of my own, which is the TMDb movie dataset. This data set contains information over 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue. The database has 10866 rows and 21 columns. The columns include: Id, imdb_id, popularity, budget, revenue, original_title, cast, homepage, director, tangline, overview, runtime, genre, production_company, release_date, vote_count, vote_average, release_year, budject_adj, and revenue_adj.
+For this project, I chose a dataset of my own, which is the TMDb movie dataset. This data set contains information over 10,000 movies collected from the Movie Database (TMDb), including user ratings and revenue. The database has 10866 rows and 21 columns. The columns include: Id, imdb_id, popularity, budget, revenue, original_title, cast, homepage, director, tangline, overview, runtime, genre, production_company, release_date, vote_count, vote_average, release_year, budject_adj, and revenue_adj.
 There is also a notebook available here to showcsae all my work related to my three questions.
 
 4. Results
