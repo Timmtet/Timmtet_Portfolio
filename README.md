@@ -29,7 +29,7 @@ The insights drawn from this project can be found in the medium post below:
 
 5. Licensing, Authors, and Acknowledgements
 
-Must give credit to my collegues for thier inputs in this project, and to kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available below:
+I must give credit to my collegues for thier inputs in this project, and to kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available below:
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ![](/Images/1_g8KTuLMF6MRm_wGGY7yKSQ.jpg)
