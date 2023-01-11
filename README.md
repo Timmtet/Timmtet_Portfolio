@@ -1,5 +1,5 @@
 # Timmtet_Portfolio
-# Hi, I am Timileyin Akintilo. Welcome to my portfolio
+# Hi, I am Timileyin Akintilo. Welcome to my portfolio.
 
 
 # [Project 1: Writing a Data Science Blog Post - (TMDb_movies_database Project)](https://github.com/Timmtet/Write-a-data-science-blog-post)
